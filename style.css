@@ -27,7 +27,6 @@ body{
  text-decoration: none;
 }
 .content1{
-    border: 2px solid white;
     display: flex;
     justify-content:space-evenly;
 }
